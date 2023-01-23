@@ -1,5 +1,6 @@
 # 💫 About Me:
-A student passionate about web apps and development<br><br>I'm currently a second year student at SRM, KTR<br><br>I'm currently learning javascript and typescript. <br><br>I'm currently learning CPP(DSA) and react <br>
+
+⛓️<a href="https://subhic.vercel.app/" target="_blank">My Portfolio Website</a><br><br>A student passionate about web apps and development<br><br>I'm currently a second year student at SRM, KTR<br><br>I'm currently learning javascript and typescript. <br><br>I'm currently learning CPP(DSA) and react <br>
 
 
 ## 🌐 Socials:
