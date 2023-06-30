@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Subhashree!<br><br>🏫 I'm currently a second-year student at SRM, KTR campus<br>🔭 I’m currently focusing on becoming a Front-end dev.<br>🤝 I’m looking for help with Motivation 🥹.<br>🌱 I’m currently learning Typescript, and React.<br>
+Hey 👋, I'm Subhashree!<br><br>🏫 I'm currently a Third-year student at SRM, KTR<br>🔭 I’m currently focusing on becoming a Full-stack dev.<br>🤝 I’m looking for help with Motivation 🥹 and maybe collaboration on fun project ideas.<br>🌱 I’m currently learning Typescript, and NextJS <br>
 
 
 # 💻 Tech Stack:
